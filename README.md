@@ -1,0 +1,1 @@
+Flashcard Tool will be a program to facilitate and accelerate the teaching and learning of materials using computerized flash cards. It will act as an interface where the user can study and practice specific materials at their leisure and own pace. It will be available for use at home or in educational environments. 
