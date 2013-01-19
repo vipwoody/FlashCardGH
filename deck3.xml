@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<mathdeck>
+	<question>
+		<q>How many minutes equal 2 hours?</q>
+		<a1>120</a1>
+		<a2>150</a2>
+		<a3>90</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>I have 3 quarters and 2 dimes. These 5 coins are worth the same as ______ nickels</q>
+		<a1>15</a1>
+		<a2>19</a2>
+		<a3>21</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>Which of the following numbers is a factor of 60?</q>
+		<a1>4</a1>
+		<a2>7</a2>
+		<a3>8</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>The area of a square rug is 64 square feet. What is the length of one side?</q>
+		<a1>16</a1>
+		<a2>32</a2>
+		<a3>8</a3>
+		<correct>3</correct>
+	</question>
+	<question>
+		<q>Which of these numbers is NOT a prime number?</q>
+		<a1>21</a1>
+		<a2>5</a2>
+		<a3>7</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>What is the square root of 144?</q>
+		<a1>11</a1>
+		<a2>12</a2>
+		<a3>72</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>30 x 40 = 3 x 4 x ______</q>
+		<a1>10</a1>
+		<a2>100</a2>
+		<a3>12</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>What is 10 to the second power?</q>
+		<a1>20</a1>
+		<a2>100</a2>
+		<a3>81</a3>
+		<correct>2</correct>
+	</question>
+</mathdeck>

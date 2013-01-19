@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<compscideck>
+	<question>
+		<q>A program that can copy itself and infect a computer without the permission or knowledge of the owner is called what?</q>
+		<a1>Virus</a1>
+		<a2>Floppy</a2>
+		<a3>Java</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>Which of these is a correct format of IP address?</q>
+		<a1>192.168.1.1</a1>
+		<a2>192.168.111.1111</a2>
+		<a3>192.168.900.1</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>Which was the first web browser?</q>
+		<a1>WorldWideWeb</a1>
+		<a2>Netscape Navigator</a2>
+		<a3>Internet Explorer</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>Which of these is a correct format of Email address?</q>
+		<a1>contact@website.info</a1>
+		<a2>contactwebsite.info</a2>
+		<a3>contact.website.info</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>What does FTP stand for?</q>
+		<a1>File Transfer Protocol</a1>
+		<a2>File Transfer Program</a2>
+		<a3>File Thread Protocol</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>In computers, what is the smallest and basic unit of information storage?</q>
+		<a1>Bit</a1>
+		<a2>Byte</a2>
+		<a3>Newton</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>What does HTTP stands for?</q>
+		<a1>Hypertext Transfer Protocol</a1>
+		<a2>Hypertext Transfer Plotter</a2>
+		<a3>Head Tail Transfer Plot</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>Which was the first ever web server software?</q>
+		<a1>CERN httpd</a1>
+		<a2>nginx</a2>
+		<a3>GWS</a3>
+		<correct>1</correct>
+	</question>
+</compscideck>

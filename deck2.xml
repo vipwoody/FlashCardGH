@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<sciquesdeck>
+	<question>
+		<q>Gold occurs in all these forms except</q>
+		<a1>Dust</a1>
+		<a2>Crystals</a2>
+		<a3>Grains</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>Which metal works best as an electrical conductor?</q>
+		<a1>Silver</a1>
+		<a2>Tin</a2>
+		<a3>Brass</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>What is a periodic table?</q>
+		<a1>A chart of the planets in our galaxy</a1>
+		<a2>A table in the lab used for experiments</a2>
+		<a3>It's a chart of the different elements organized</a3>
+		<correct>3</correct>
+	</question>
+	<question>
+		<q>Isotopes of the same element have different:</q>
+		<a1>Topes</a1>
+		<a2>Atomic Masses</a2>
+		<a3>Symbols</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>Where is your uvula?</q>
+		<a1>Lungs</a1>
+		<a2>Mouth</a2>
+		<a3>Elbow</a3>
+		<correct>2</correct>
+	</question>
+	<question>
+		<q>How many legs does a spider have?</q>
+		<a1>4</a1>
+		<a2>6</a2>
+		<a3>8</a3>
+		<correct>3</correct>
+	</question>
+	<question>
+		<q>What part of the nervous system controls involuntary processes such as breathing and digestion?</q>
+		<a1>The Autonomic Nervous System</a1>
+		<a2>The Sympathetic Nervous System</a2>
+		<a3>The Parasympathetic Nervous System</a3>
+		<correct>1</correct>
+	</question>
+	<question>
+		<q>The most prominent crater on the moon is:</q>
+		<a1>Kepler</a1>
+		<a2>Brahe</a2>
+		<a3>Tycho</a3>
+		<correct>3</correct>
+	</question>
+</sciquesdeck>
